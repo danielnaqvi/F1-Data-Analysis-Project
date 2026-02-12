@@ -1,4 +1,4 @@
-Formula 1 Data Analysis (2000-2022)
+# Formula 1 Data Analysis (2000-2022)
 
 Formula 1 Qualifying Analysis (2000–2017, 2022–2023)
 This project analyzes Formula 1 qualifying performance using a Kaggle dataset and a combination of SQL and Tableau. Long‑term trends (2000–2017) were visualized in Tableau, while year‑over‑year comparisons for Q3 qualifying times (2022 vs. 2023) were done in SQL.
